@@ -1,3 +1,7 @@
 title: Практические работы РПМ
 supportedLanguages: []
-properties: []
+properties:
+  - name: Ссылка на лекцию
+    type: Text
+    style: pink-blue
+    icon: info
