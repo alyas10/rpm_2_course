@@ -68,7 +68,7 @@ Console.Read();
 
 :::
 
-![](./prakticheskaya-rabota-8-sozdanie-nasledovannykh.png){width=1024px height=768px}
+![](./_index.png){width=1024px height=768px}
 
 Все классы по умолчанию могут наследоваться. Однако здесь есть ряд ограничений:
 
@@ -335,7 +335,7 @@ public override void Print()
 
 В C# предусмотрен специальный **класс object**, который неявно считается базовым классом для всех остальных классов и типов, включая и типы значений.
 
-![](./prakticheskaya-rabota-8-sozdanie-nasledovannykh-2.png){width=711px height=502px}
+![](./_index-2.png){width=711px height=502px}
 
 **Методы System.Object**
 
@@ -416,4 +416,4 @@ class Program
 }
 ```
 
-![](./prakticheskaya-rabota-8-sozdanie-nasledovannykh-3.png){width=389px height=228px}
+![](./_index-3.png){width=389px height=228px}
